@@ -4,7 +4,8 @@
 Writes exactly one line of text — the admission an AI agent would never
 dare say out loud — to entry.txt inside MAKEFUN_OUTPUT_DIR.
 
-Pure stdlib, deterministic: the same line on every run.
+Pure stdlib, deterministic: the same line on every run. The line is 122
+characters, inside the competition's 1-140 character gate.
 """
 
 import os
